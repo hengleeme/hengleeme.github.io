@@ -181,13 +181,13 @@
       title = ""
       # subtitle shown in home page (HTML format is supported)
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "This is my cool site"
+      subtitle = "This is henglee site"
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
       typeit = true
       # whether to show social links
       # 是否显示社交账号
-      social = true
+      social = false
       # disclaimer (HTML format is supported)
       # 免责声明 (支持 HTML 格式)
       disclaimer = ""
@@ -197,7 +197,7 @@
       enable = true
       # special amount of posts in each home posts page
       # 主页每页显示文章数量
-      paginate = 6
+      paginate = 12
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
